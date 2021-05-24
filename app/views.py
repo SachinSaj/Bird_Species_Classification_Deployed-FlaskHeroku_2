@@ -14,7 +14,7 @@ import os
 import string
 import random
 from PIL import Image
-from werkzeug.utils import secure_filename
+
 
 
 # In[51]:
