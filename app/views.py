@@ -9,7 +9,6 @@ from app import app
 from flask import Flask, render_template, request, redirect, url_for
 from keras import models
 import numpy as np
-import cv2
 import os
 import string
 import random
