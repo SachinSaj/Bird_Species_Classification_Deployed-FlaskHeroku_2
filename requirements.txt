@@ -3,4 +3,4 @@ numpy==1.19.5
 Flask==1.0.2
 Pillow==8.2.0
 gunicorn
-tensorflow
+tensorflow==2.2.0
